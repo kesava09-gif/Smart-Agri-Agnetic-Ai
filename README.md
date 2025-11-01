@@ -32,9 +32,3 @@
    cd frontend
    streamlit run app.py
    ```
-
-## 📽️ Demo
-A short 3-minute demo video showcasing system features will be uploaded soon.
-
----
-Developed by **Kesava09-gif** for the *AWS x NVIDIA Agentic AI Hackathon*.
