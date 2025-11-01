@@ -32,3 +32,22 @@
    cd frontend
    streamlit run app.py
    ```
+ markdown banner block
+ 
+ <h1 align="center">🌾 SmartAgri Agentic AI 🌾</h1>
+<p align="center">
+  <b>AI that grows with the farmer — built on AWS × NVIDIA</b><br>
+  <i>Empowering farmers with real-time intelligence, sustainability, and autonomous decision-making.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-EKS-orange?logo=amazon-aws">
+  <img src="https://img.shields.io/badge/NVIDIA-NIM-green?logo=nvidia">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-blue?logo=fastapi">
+  <img src="https://img.shields.io/badge/Streamlit-Frontend-pink?logo=streamlit">
+  <img src="https://img.shields.io/badge/Hackathon-AWS×NVIDIA-9cf">
+</p>
+
+---
+
+🌱 **SmartAgri Agentic AI** is an autonomous agriculture assistant that leverages <b>LLM intelligence</b>, <b>IoT data</b>, and <b>agentic reasoning</b> to help farmers make smarter, faster, and more sustainable decisions.
