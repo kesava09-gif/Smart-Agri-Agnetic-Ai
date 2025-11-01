@@ -51,3 +51,6 @@
 ---
 
 🌱 **SmartAgri Agentic AI** is an autonomous agriculture assistant that leverages <b>LLM intelligence</b>, <b>IoT data</b>, and <b>agentic reasoning</b> to help farmers make smarter, faster, and more sustainable decisions.
+
+> 🌾 **AI-powered farming assistant built with AWS & NVIDIA Agentic AI.**
+> [Visit Project Repository](https://github.com/Kesava09-gif/SmartAgri-AgenticAI)
