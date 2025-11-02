@@ -54,3 +54,76 @@
 
 > 🌾 **AI-powered farming assistant built with AWS & NVIDIA Agentic AI.**
 > [Visit Project Repository](https://github.com/Kesava09-gif/SmartAgri-AgenticAI)
+
+# 🌾 SmartAgri Agentic AI
+
+## 🚀 Your AI-powered Farming Assistant
+
+SmartAgri Agentic AI helps farmers make smart crop and soil decisions using artificial intelligence.  
+It provides personalized recommendations for crops, fertilizers, and soil management based on input data.
+
+---
+
+## 🧠 Features
+- 🌱 AI-based crop recommendation system  
+- 🧪 Soil-type analysis (Loamy, Sandy, Clay, etc.)  
+- 💧 Smart irrigation & fertilizer suggestions  
+- 📊 Interactive Streamlit dashboard  
+- ☁️ Hosted online via Streamlit Cloud
+
+---
+
+## 🏗️ Tech Stack
+| Technology | Purpose |
+|-------------|----------|
+| 🐍 Python | Core development |
+| ⚡ Streamlit | Front-end UI |
+| 🤖 OpenAI / Agentic Models | AI logic |
+| ☁️ GitHub + Streamlit Cloud | Hosting & Deployment |
+
+---
+
+## 🧩 Folder Structure
+```
+SmartAgri-Agentic-AI/
+│
+├── streamlit_app.py        # Main Streamlit app
+├── requirements.txt        # Dependencies
+├── README.md               # Project documentation
+├── data/                   # Sample datasets (optional)
+└── LICENSE
+```
+
+---
+
+## ⚙️ Installation (For Local Run)
+```bash
+# Clone the repository
+git clone https://github.com/kesava09-gif/smart-agri-agentic-ai.git
+cd smart-agri-agentic-ai
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+```
+
+---
+
+## 🌍 Live App
+👉 [Launch SmartAgri Agentic AI](https://ira8.streamlit.app)
+
+---
+
+## 💡 Future Enhancements
+- Integrate weather-based crop prediction  
+- Add voice-assistant support for farmers  
+- IoT-based sensor data integration  
+
+---
+
+## 🧑‍💻 Developed By
+**Kesava N**  
+🚀 GitHub: [kesava09-gif](https://github.com/kesava09-gif)  
+📧 Email: mathikesavanath@gmail.com
